@@ -1,3 +1,1 @@
-# PURE-CSS---animation
-
-Work done using only css!
+# css-flower
